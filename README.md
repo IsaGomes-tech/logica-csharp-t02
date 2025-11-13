@@ -21,6 +21,7 @@ Repositório criado para armazenar as atividades e exercícios desenvolvidos dur
 | 04/11 | ⚙️ Operadores Lógicos | AND, OR, NOT e expressões compostas |
 | 11/11 | 🧩 Condicionais | Estruturas `if`, `else if`, `else` e `switch` |
 | — | 🏁 Maratona de Exercícios | Resolução dos desafios propostos |
+| 13/11 | 🔁 Laços de Repetição | for , foreach, do, while  |
 
 ---
 
