@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vetoresmatrizes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42deb1cc154043936a8449b0113830d594fe093e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb2c491cfe82ee7605a2d0b4b392564490cb75d")]
 [assembly: System.Reflection.AssemblyProductAttribute("vetoresmatrizes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vetoresmatrizes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
