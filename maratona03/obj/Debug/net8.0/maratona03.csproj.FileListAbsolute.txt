@@ -1,0 +1,15 @@
+C:\Users\isabela.gnascimento4\source\repos\maratona03\bin\Debug\net8.0\maratona03.exe
+C:\Users\isabela.gnascimento4\source\repos\maratona03\bin\Debug\net8.0\maratona03.deps.json
+C:\Users\isabela.gnascimento4\source\repos\maratona03\bin\Debug\net8.0\maratona03.runtimeconfig.json
+C:\Users\isabela.gnascimento4\source\repos\maratona03\bin\Debug\net8.0\maratona03.dll
+C:\Users\isabela.gnascimento4\source\repos\maratona03\bin\Debug\net8.0\maratona03.pdb
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\maratona03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\maratona03.AssemblyInfoInputs.cache
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\maratona03.AssemblyInfo.cs
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\maratona03.csproj.CoreCompileInputs.cache
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\maratona03.sourcelink.json
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\maratona03.dll
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\refint\maratona03.dll
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\maratona03.pdb
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\maratona03.genruntimeconfig.cache
+C:\Users\isabela.gnascimento4\source\repos\maratona03\obj\Debug\net8.0\ref\maratona03.dll
